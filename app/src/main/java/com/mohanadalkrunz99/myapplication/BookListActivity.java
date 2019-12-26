@@ -24,6 +24,8 @@ public class BookListActivity extends AppCompatActivity {
         bookList.add(new Book("Dalia Salah ","student in alazhar uni","Styding software engineering","10/10/2010"));//
          bookList.add(new Book("Heba ","Islamic university","Building engineering","1/10/2010"));//
         bookList.add(new Book("Tasneem ","Palistine university","Biomedical engineering","3/10/2010"));//
+        bookList.add(new Book("Tasneem ","Palistine university","Biomedical engineering","3/10/2010"));//
+        bookList.add(new Book("Tasneem ","Palistine university","Biomedical engineering","3/10/2010"));//
         //
 
 
